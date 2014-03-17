@@ -23,6 +23,8 @@
     
     NSLog(@"ううううう");
 
+    NSLog(@"えええええ");
+    
 }
 
 - (void)didReceiveMemoryWarning
