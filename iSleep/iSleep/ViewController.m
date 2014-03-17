@@ -17,14 +17,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"あああああ");
+    NSLog(@"aaaaa");
     
-    NSLog(@"いいいいい");
+    NSLog(@"iiiii");
     
-    NSLog(@"ううううう");
-
-    NSLog(@"えええええ");
+    NSLog(@"uuuuu");
     
+    NSLog(@"ooooo");
 }
 
 - (void)didReceiveMemoryWarning
