@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
     NSLog(@"あああああ");
+    
+    NSLog(@"いいいいい");
 
 }
 
