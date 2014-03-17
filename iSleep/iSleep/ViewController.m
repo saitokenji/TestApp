@@ -24,11 +24,7 @@
     NSLog(@"uuuuu");
     
     NSLog(@"ooooo");
-    
-    NSLog(@"kkkkk");
-    
-    NSLog(@"jjjjj");
-    
+
     
 }
 
