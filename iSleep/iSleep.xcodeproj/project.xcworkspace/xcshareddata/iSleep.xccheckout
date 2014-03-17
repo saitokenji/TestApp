@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CA1F72AC-D9FA-49B3-9523-2D826AF2B122</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iSleep</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>41F02D8C-463C-4878-B337-D36C6FD7553B</key>
+		<string>https://github.com/saitokenji/TestApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iSleep/iSleep.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>41F02D8C-463C-4878-B337-D36C6FD7553B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saitokenji/TestApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>41F02D8C-463C-4878-B337-D36C6FD7553B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>41F02D8C-463C-4878-B337-D36C6FD7553B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
